@@ -18,24 +18,11 @@ My name is Undre Stoker, but everyone calls me Dre! Yes like the "Dr." but not n
 
 
 ```markdown
-Syntax highlighted code block
+As I mentioned, I am a huge sports junkie and most of my time is spent watching the teams or players that I love. Being from Texas, of course I am a fan of America's Greatest Football team the Dallas Cowboys. You too can join in on the action by visiting their [official website] (https://www.dallascowboys.com) to catch the next game! 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
