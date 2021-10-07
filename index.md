@@ -17,18 +17,12 @@ My name is Undre Stoker, but everyone calls me Dre! Yes like the "Dr." but not n
 
 
 
-```markdown
+### My Faves
 As I mentioned, I am a huge sports junkie and most of my time is spent watching the teams or players that I love. 
 Being from Texas, of course I am a fan of America's Greatest Football team the Dallas Cowboys. 
-You too can join in on the action by visiting their [official website] (https://www.dallascowboys.com) to catch the next game! 
+You too can join in on the action by visiting their [official website](https://www.dallascowboys.com) to catch the next game!  
 
-
-
-```
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UndreStoker/WebProgramming/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [official website](https://www.dallascowboys.com). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
