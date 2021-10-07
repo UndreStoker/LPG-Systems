@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to My Page!
+![IMG_3571](https://user-images.githubusercontent.com/91627769/136305661-8279663b-af50-4917-a7f3-d037e0853d18.JPG)
 
 You can use the [editor on GitHub](https://github.com/UndreStoker/WebProgramming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
