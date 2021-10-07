@@ -18,7 +18,9 @@ My name is Undre Stoker, but everyone calls me Dre! Yes like the "Dr." but not n
 
 
 ```markdown
-As I mentioned, I am a huge sports junkie and most of my time is spent watching the teams or players that I love. Being from Texas, of course I am a fan of America's Greatest Football team the Dallas Cowboys. You too can join in on the action by visiting their [official website] (https://www.dallascowboys.com) to catch the next game! 
+As I mentioned, I am a huge sports junkie and most of my time is spent watching the teams or players that I love. 
+Being from Texas, of course I am a fan of America's Greatest Football team the Dallas Cowboys. 
+You too can join in on the action by visiting their [official website] (https://www.dallascowboys.com) to catch the next game! 
 
 
 
