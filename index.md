@@ -18,12 +18,16 @@ My name is Undre Stoker, but everyone calls me Dre! Yes like the "Dr." but not n
 
 
 ### My Faves
+
 As I mentioned, I am a huge sports junkie and most of my time is spent watching the teams or players that I love. 
 Being from Texas, of course I am a fan of America's Greatest Football team the Dallas Cowboys. 
 You too can join in on the action by visiting their [official website](https://www.dallascowboys.com) to catch the next game!  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [official website](https://www.dallascowboys.com). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you saw my above photos and want to see more of what my agency does, I encourage you to check out our official [Twitter](https://twitter.com/RealAFOSI).
 
-### Support or Contact
+Lastly, I want to share one of my favorite YouTube creators who has published tons of content on Computer Programming. His page has helped me out tremendously with not only the classes at Southwestern but also my own personal goals of one day becomming a Software Devloper. Check him out! [Alex Lee Youtube](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Contact
+
+If you have any questions or concerns about my website or just want to get in contact with me please feel free to send me an email at undre.stoker@sckans.edu 
