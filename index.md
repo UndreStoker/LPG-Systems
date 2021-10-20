@@ -1,4 +1,7 @@
-## Welcome to My Website!                                                                         [Twitter](https://twitter.com/RealAFOSI)
+<p align="center">
+## Welcome to My Website!                                                                         
+</p>
+
 ![IMG_3571](https://user-images.githubusercontent.com/91627769/136305661-8279663b-af50-4917-a7f3-d037e0853d18.JPG)
 
 This website will capture some of the essence of my life and will be a lens into some of the things I enjoy the most in this world. Please buckle up for safety as we embark on this adventure!
