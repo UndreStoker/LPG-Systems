@@ -1,6 +1,6 @@
 <h3 align="center"> Welcome to My Website! </h3>
 
-[Home](https://undrestoker.github.io/Mind-of-Dre/) &nbsp;   [Images](https://undrestoker.github.io/images/) &nbsp;   [How To](https://undrestoker.github.io/how-to/) &nbsp;   [Links](https://undrestoker.github.io/Links/) &nbsp;   [Contact](https://twitter.com/RealAFOSI)
+[Home](https://undrestoker.github.io/Mind-of-Dre/) &nbsp;   [Images](https://undrestoker.github.io/images/) &nbsp;   [How To](https://undrestoker.github.io/how-to/) &nbsp;   [Links](https://undrestoker.github.io/Links/) &nbsp;   [Contact](https://undrestoker.github.io/Contact/)
 
 ![IMG_3571](https://user-images.githubusercontent.com/91627769/136305661-8279663b-af50-4917-a7f3-d037e0853d18.JPG)
 
