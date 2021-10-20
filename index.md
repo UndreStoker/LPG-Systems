@@ -1,7 +1,5 @@
-<p align="center">
-  
-## Welcome to My Website!    
-  
+<p align="center">  
+## Welcome to My Website!      
 </p>
 
 ![IMG_3571](https://user-images.githubusercontent.com/91627769/136305661-8279663b-af50-4917-a7f3-d037e0853d18.JPG)
