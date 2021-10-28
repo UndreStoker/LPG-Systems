@@ -2,9 +2,13 @@
 
 [Home](https://undrestoker.github.io/Mind-of-Dre/) &nbsp;   [Images](https://undrestoker.github.io/Images/) &nbsp;   [How To](https://undrestoker.github.io/How-To/) &nbsp;   [Links](https://undrestoker.github.io/Links/) &nbsp;   [Contact](https://undrestoker.github.io/Contact/)
 
+[comment]: # (Header Image) 
+
 ![IMG_3571](https://user-images.githubusercontent.com/91627769/136305661-8279663b-af50-4917-a7f3-d037e0853d18.JPG)
 
 This website will capture some of the essence of my life and will be a lens into some of the things I enjoy the most in this world. Please buckle up for safety as we embark on this adventure!
+
+[comment]: # (Text Paragraph) 
 
 ### About Me
 
