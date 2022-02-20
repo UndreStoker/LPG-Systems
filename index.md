@@ -6,7 +6,7 @@
 
 ![istockphoto-1298315191-612x612](https://user-images.githubusercontent.com/91627769/154852405-bea7ed1a-42d7-430b-81d2-1fdceb24b33d.jpeg)
 
-## LPG - The leader's in Health Care Service!
+## LPG - The leaders in Health Care Service!
 
 
 ![istockphoto-1307544590-612x612](https://user-images.githubusercontent.com/91627769/154852423-f7cee040-57b1-49fd-9b80-00385f10992c.jpeg)
