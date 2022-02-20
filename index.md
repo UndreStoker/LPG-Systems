@@ -4,9 +4,12 @@
 
 [comment]: # (Header Image) 
 
-![IMG_3571](https://user-images.githubusercontent.com/91627769/136305661-8279663b-af50-4917-a7f3-d037e0853d18.JPG)
+![istockphoto-1298315191-612x612](https://user-images.githubusercontent.com/91627769/154852405-bea7ed1a-42d7-430b-81d2-1fdceb24b33d.jpeg)
 
-This website will capture some of the essence of my life and will be a lens into some of the things I enjoy the most in this world. Please buckle up for safety as we embark on this adventure!
+## LPG - The leader's in Health Care Service!
+
+
+![istockphoto-1307544590-612x612](https://user-images.githubusercontent.com/91627769/154852423-f7cee040-57b1-49fd-9b80-00385f10992c.jpeg)
 
 [comment]: # (Text Paragraph) 
 
